@@ -1,7 +1,7 @@
 {
-  "TRAIN_NO": "12057",
-  "TRAIN_COACH": "2S",
-  "TRAVEL_DATE": "18/10/2025",
+  "TRAIN_NO": "12311",
+  "TRAIN_COACH": "3A",
+  "TRAVEL_DATE": "19/10/2025",
   "SOURCE_STATION": "NDLS",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "CDG",
@@ -13,7 +13,7 @@
       "NAME": "Nikhil Gupta",
       "AGE": 22,
       "GENDER": "Male",
-      "SEAT": "Window Side",
+      "SEAT": "Upper",
       "FOOD": "No Food"
     }
   ],
